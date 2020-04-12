@@ -1,0 +1,11 @@
+| referrer                                                                                        | count | uniques |
+| :---------------------------------------------------------------------------------------------- | :---- | :------ |
+| /e2e-boilerplate/puppeteer-typescript-ts-jest-jest-expect                                       | 3     | 3       |
+| /e2e-boilerplate/puppeteer-typescript-ts-jest-jest-expect/blob/master/jest.config.js            | 2     | 2       |
+| /e2e-boilerplate/puppeteer-typescript-ts-jest-jest-expect/blob/master/package.json              | 2     | 2       |
+| /e2e-boilerplate/puppeteer-typescript-ts-jest-jest-expect/actions                               | 1     | 1       |
+| /e2e-boilerplate/puppeteer-typescript-ts-jest-jest-expect/actions/runs/71858987                 | 1     | 1       |
+| /e2e-boilerplate/puppeteer-typescript-ts-jest-jest-expect/blob/master/__tests__/sandbox.spec.ts | 1     | 1       |
+| /e2e-boilerplate/puppeteer-typescript-ts-jest-jest-expect/runs/564456940                        | 1     | 1       |
+| /e2e-boilerplate/puppeteer-typescript-ts-jest-jest-expect/runs/564849492                        | 1     | 1       |
+| /e2e-boilerplate/puppeteer-typescript-ts-jest-jest-expect/tree/master/__tests__                 | 1     | 1       |
