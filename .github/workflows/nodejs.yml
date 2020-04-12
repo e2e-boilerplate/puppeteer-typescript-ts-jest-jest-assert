@@ -1,4 +1,4 @@
-name: puppeteer-typescript-ts-jest-jest-expect
+name: puppeteer-typescript-ts-jest-jest-assert
 'on':
   push: null
   schedule:
