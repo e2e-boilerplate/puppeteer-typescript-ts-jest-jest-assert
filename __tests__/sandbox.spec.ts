@@ -1,4 +1,5 @@
 import * as puppeteer from "puppeteer";
+import { strictEqual } from "assert";
 
 let page: any;
 let browser: any;
@@ -30,7 +31,7 @@ describe("Sandbox", () => {
       return el.textContent;
     });
 
-    expect(await page.title()).toEqual("Sandbox");
-    expect(title).toEqual("Sandbox");
+    strictEqual(await page.title(), "Sandbox");
+    strictEqual(title, "Sandbox");
   });
 });
